@@ -3,7 +3,7 @@
 
 Some Excercises of 
  * Arrays
- *Hash Tables
- *Linked Lis
- *Double Linked List
+ * Hash Tables
+ * Linked Lis
+ * Double Linked List
  
